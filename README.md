@@ -1,4 +1,7 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a Study of Socket Programming
+
+### NAME : MARIO VIOFER J
+### REG.NO : 212223100032
 
 ## Aim: 
 To perform a study on Socket Programming
